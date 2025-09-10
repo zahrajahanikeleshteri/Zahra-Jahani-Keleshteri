@@ -51,7 +51,7 @@
   <a href="https://www.linkedin.com/in/zahra-jahani-keleshteri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:Zahraajahani.k@ut.ac.ir"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.kaggle.com/zahrajahanik"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="https://https://zahrajahanikeleshteri.github.io/Zahra-Jahani-Keleshteri/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://zahrajahanikeleshteri.github.io/Zahra-Jahani-Keleshteri/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>  
 
 ---
